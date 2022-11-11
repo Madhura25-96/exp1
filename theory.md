@@ -1,9 +1,9 @@
-###  Theory :
+###  Theory 
 In this section, we shall provide some essential theory related to Part-1 of Experiment-1
 
-1. We shall discuss the following topics:
-    - Introduction to Finite Fields and Binary Arithmetic.
-    - Vector space spanned by the given set of vectors.
+We shall discuss the following topics:
+- Introduction to Finite Fields and Binary Arithmetic.
+- Vector space spanned by the given set of vectors.
 
 #### Introduction to Finite Fields and Binary Arithmetic
 
@@ -57,7 +57,8 @@ multiplication operations for  any a, b ∈ F<sub>2</sub> defined as Equation (1
  0 . 0 = 0\\
  0 . 1 = 0\\
  1 . 0 = 0\\
- 1 · 1 = 1\end{pmatrix}$$         
+ 1 · 1 = 1
+ \end{pmatrix}$$         
  
                                                   
 #### 
